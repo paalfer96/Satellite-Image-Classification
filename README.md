@@ -16,8 +16,21 @@ This dataset contains 24657 images stored in 45 folders in the training path and
 
 Goals are the following:
 
-- Build a good model who classifies the images in their different type
-- Compare pre-trained neuronal networks from Keras
+- Build a good model who classifies the images in their different types.
+- Compare pre-trained neuronal networks from Keras.
 
 ## Conclusion
+
+5 different pre-trained neuronal networks from Keras (ResNet50,VGG19,ResNet101,InceptionV3,MobileNetV2) were tested, and I have achieved different results with an important discussion:
+
+- *ResNet50:* I have achieved the best training accuracy with 93.4% in training set and 91,6% in validation set.
+
+- *VGG19:* I have achieved the worst training accuracy with 2.25% in training set and 2.33% in validation set.
+
+- *ResNet101:* I have achieved 87.6% accuracy in training set and 74.3% in validation set.
+
+- *InceptionV3:* I have achieved 88.1% accuracy in training set and 80.5% in validation set.
+
+- *MobileNetV2:* I have achieved 92% accuracy in training set and 84.8% in validation set.
+
 
