@@ -12,14 +12,14 @@ The dataset used was collected from pictures that one satellite has done.
 
 This dataset contains 24657 images stored in 45 folders in the training path and 3080 images without storing in the test path. Each folder represents one different class or one different type of picture. The images are as the following:
 
-<div class="row">
-  <div class="column">
+<div class="column">
+  <div class="row">
     <img src="Images/airplane.jpg" width = 100>
   </div>
-  <div class="column">
+  <div class="row">
     <img src="Images/island.jpg" width = 100>
   </div>
-  <div class="column">
+  <div class="row">
     <img src="Images/stadium.jpg" width = 100>
   </div>
 </div>
