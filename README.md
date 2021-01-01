@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The main purpose of this repository is to compare pre-trained neuronal networks from Keras in the classification of satellite images. My objetive will be to show in a graphical way that not all Deep Learning models work in different situations. therefore, before sell a project we should test different architectures in order to obtain the best project possible
+The main purpose of this repository is to compare pre-trained neuronal networks from Keras in the classification of satellite images. My objetive will be to show in a graphical way that not all Deep Learning models work in different situations. Therefore, before sell a project we should test different architectures in order to obtain the best project possible.
 
 ## Data source
 
