@@ -14,13 +14,13 @@ This dataset contains 24657 images stored in 45 folders in the training path and
 
 <div class="row">
   <div class="column">
-    <img src="Images/airplane.jpg" alt="Snow" style="width:50%">
+    <img src="Images/airplane.jpg" alt="Snow" style="width:5%">
   </div>
   <div class="column">
-    <img src="Images/island.jpg" alt="Forest" style="width:50%">
+    <img src="Images/island.jpg" alt="Forest" style="width:5%">
   </div>
   <div class="column">
-    <img src="Images/stadium.jpg" alt="Mountains" style="width:50%">
+    <img src="Images/stadium.jpg" alt="Mountains" style="width:5%">
   </div>
 </div>
 
