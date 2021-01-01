@@ -10,7 +10,7 @@ The dataset used was collected from pictures that one satellite has done.
 
 ## Data description
 
-This dataset contains 24657 images stored in 45 folders in the training path and 3080 images without storing in the test path. Each folder represents one different class or one different type of picture. The images are as the following:
+This dataset contains 24657 images stored in 45 folders in the training path and 3080 images without folders in the test path. Each folder represents one different class or one different type of picture. The images are as the following:
 
 <div class="column">
   <div class="row">
