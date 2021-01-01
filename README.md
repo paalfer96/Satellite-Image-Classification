@@ -37,7 +37,13 @@ The discussion is related to the choice of what model can be the best for solvin
 
 - The first model has a very high accuracy but the learning wasn't stable, sometimes the validation accuracy dropped very much.
 
+<img src = "Images/resnet50.jpg" width = 500>
+
 - The fourth model hasn't the best accuracy but it has the lowest accuracy gap between training and validation. So, it's very consistent.
 
+<img src = "Images/inceptionv3.jpg" width = 500>
+
 - The last model started with a huge gap between training and validation but, with each step it was getting a stable learning.
+
+<img src = "Images/mobilenetv2.jpg" width = 500>
 
