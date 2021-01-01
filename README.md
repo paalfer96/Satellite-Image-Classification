@@ -23,14 +23,21 @@ Goals are the following:
 
 5 different pre-trained neuronal networks from Keras (ResNet50,VGG19,ResNet101,InceptionV3,MobileNetV2) were tested, and I have achieved different results with an important discussion:
 
-- *ResNet50:* I have achieved the best training accuracy with 93.4% in training set and 91,6% in validation set.
+- *ResNet50:* I have achieved the best training accuracy with **93.4%** in training set and **91,6%** in validation set.
 
-- *VGG19:* I have achieved the worst training accuracy with 2.25% in training set and 2.33% in validation set.
+- *VGG19:* I have achieved the worst training accuracy with **2.25%** in training set and **2.33%** in validation set.
 
-- *ResNet101:* I have achieved 87.6% accuracy in training set and 74.3% in validation set.
+- *ResNet101:* I have achieved **87.6%** accuracy in training set and **74.3%** in validation set.
 
-- *InceptionV3:* I have achieved 88.1% accuracy in training set and 80.5% in validation set.
+- *InceptionV3:* I have achieved **88.1%** accuracy in training set and **80.5%** in validation set.
 
-- *MobileNetV2:* I have achieved 92% accuracy in training set and 84.8% in validation set.
+- *MobileNetV2:* I have achieved **92%** accuracy in training set and **84.8%** in validation set.
 
+The discussion is related to the choice of what model can be the best for solving this problem. It is of the utmost importance not just focus on the results above exposed. All the training was done it in Colab with 30 epochs and it wasn't wnough to determine what model is the most optimal.
+
+- The first model has a very high accuracy but the learning wasn't stable, sometimes the validation accuracy dropped very much.
+
+- The fourth model hasn't the best accuracy but it has the lowest accuracy gap between training and validation. So, it's very consistent.
+
+- The last model started with a huge gap between training and validation but, with each step it was getting a stable learning.
 
