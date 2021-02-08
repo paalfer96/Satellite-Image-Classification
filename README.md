@@ -45,7 +45,7 @@ Goals are the following:
 
 - *MobileNetV2:* I have achieved **92%** accuracy in training set and **84.8%** in validation set.
 
-The discussion is related to the choice of what model can be the best for solving this problem. It is of the utmost importance not just focus on the results above exposed. All the training was done it in Colab with 30 epochs and it wasn't enough to determine what model is the most optimal.
+The discussion is related to the choice of what model can be the best for solving this problem. It is of the utmost importance not just focus on the results above exposed. All the training was done in Colab with 30 epochs and it wasn't enough to determine what model is the most optimal.
 
 - The first model has a very high accuracy but the learning wasn't stable, sometimes the validation accuracy dropped very much.
 
